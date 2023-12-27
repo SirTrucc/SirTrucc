@@ -1,4 +1,4 @@
-- 👋 Bonjour, I’m @SirTrucc
+- 👋 Bonjour, I’m @SirTrucc - An 18 year-old guy from Vietnam, you can address me as my pronouns or my nickname (Vincent)
 - 👀 I’m interested in Physics, Mathematics, Data and Computer Science ( But as a beginner so I need more experience :( )
 - 🌱 I’m currently learning Physics at VNU-HCM, University of Science
 - 💞️ I’m looking to collaborate on learning data, CSE, Python, C#, project making, etc.
